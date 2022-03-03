@@ -87,9 +87,14 @@
 }
 
 
+
 .texto{
     text-align: justify;
     margin-right: 50px;
+}
+
+.texto p{
+    background-size: cover;
 }
 
 .leer-mas{
@@ -102,8 +107,20 @@
 }
 
 
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+
 /*prensa*/
 
+
+.container-sm h2{
+    margin-top: 200px;
+    margin-bottom: 80px;
+    font-size: 28px;
+}
 
 .video iframe{
     width: 700px; 
@@ -116,7 +133,13 @@
 }
 
 
+/*contactos*/
 
+.imagen-productos img{
+    margin-top: 100px;
+    float: left;
+    margin-right: 300px;
+}
 
 
 
