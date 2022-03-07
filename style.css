@@ -71,33 +71,94 @@
 
 
 
+/*blog*/
+
+.imagen-blog{
+    float: left;
+    width: 700px;
+    height: 700px;
+    margin-top: 70px;
+    margin-left: -220px;
+    padding: 0 50px;
+}
+
+.sub-titulo h3{
+    margin-top: 70px;
+}
+
+
+.texto{
+    text-align: justify;
+    margin-right: 50px;
+}
+
+.leer-mas{
+    background-color:rgb(250, 229, 223);
+    width: 100px;
+    margin-left: 200px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+/*prensa*/
+
+
+.video iframe{
+    width: 700px; 
+    height: 400px; 
+    margin-left: 70px;
+}
+
+
+.sub-prensa{
+    margin-left: 50px;
+}
 
 
 
+/*contactos*/
 
 
 
+.flex-shrink-0{
+    margin-top: 100px;
+    margin-left: -200px;
+}
+
+.flex-grow-1{
+    margin-top: 100px;
+}
+
+.form-control{
+    background-color:rgb(250, 229, 223);
+}
+
+.mensaje{
+    margin-left: 30px;
+}
 
 
 
+.btn-primary{
+    font-family: 'Roboto';
+    src: url(./tipografias/Roboto/Roboto-Regular.ttf);
+    background-color:#696E5E;
+    border: #696E5E;
+    margin-top: 20px;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(./tipografias/Roboto/Roboto-Regular.ttf);
+    color: #696E5E;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.text-sm-start{
+    margin-right: 480px;
+    margin-left: 30px;
+}
 
 
 
