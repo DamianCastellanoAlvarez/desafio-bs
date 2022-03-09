@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; }
+
 .pie-pagina {
   background-color: #696E5E;
   margin: auto;
